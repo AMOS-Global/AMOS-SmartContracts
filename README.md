@@ -25,4 +25,4 @@ AMOS is ERC-20 standard token with the following parameters:
 ## Crowdsale Specification
 AMOS token is ERC-20 compliant.
 ### Token Distribution
-
+![Token Distribution](https://github.com/AMOS-Global/AMOS-SmartContracts/blob/master/img/token-distribution.png)
