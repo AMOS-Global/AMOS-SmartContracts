@@ -12,7 +12,7 @@ AMOS is ERC-20 standard token with the following parameters:
 * Decimals: 18
 * Minable: No
 * Burnable: Yes, owner can burn his tokens
-* Source Code: 
+* Source Code: [AMOS Token](https://github.com/AMOS-Global/AMOS-SmartContracts/blob/master/code/AMOSToken.sol)
 * Mainnet address: [AMOS Token](https://https://etherscan.io/token/0xbde6ec78568938b7d839e202f7aee0ba84169ae5#tokenInfo)
 
 ## Crowdsale Schedule
