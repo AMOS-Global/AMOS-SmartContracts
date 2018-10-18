@@ -1,9 +1,9 @@
 
 ## Smart Contracts
 1. AMOS Ethereum contracts consist of:
-* Token Contract
-* Airdrop Contract
-* Crowdsale Contract
+* [Token Contract](https://github.com/AMOS-Global/AMOS-SmartContracts/blob/master/code/AMOSToken.sol)
+* [Airdrop Contract] (https://github.com/AMOS-Global/AMOS-SmartContracts/blob/master/code/airdrop.sol)
+* [Crowdsale Contract] (https://github.com/AMOS-Global/AMOS-SmartContracts/blob/master/code/ico.sol)
 
 ## Token Contract
 AMOS is ERC-20 standard token with the following parameters:
