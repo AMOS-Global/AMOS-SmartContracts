@@ -17,11 +17,12 @@ AMOS is ERC-20 standard token with the following parameters:
 
 ## Crowdsale Schedule
 
-Crowdsle schedule
-| Phase | Start date (UTC) | End Date(UTC) |
-| Pre-Sale | Oct. 13th 2018  | Nov. 12th 2018 |
-| Public Sale | Nov. 13th 2018  | Dec. 12th 2018 |
+| Phase      | Start date (UTC)        | End Date(UTC)           |
+| -----------| ------------------------| ------------------------|
+|Pre-Sale    | Oct. 31st 2018 00:00:00 | Nov. 12th 2018 23:59:59 |
+|Public Sale | Nov. 13th 2018 00:00:00 | Dec. 12th 2018 23:59:59 |
 
 ## Crowdsale Specification
 AMOS token is ERC-20 compliant.
+### Token Distribution
 
